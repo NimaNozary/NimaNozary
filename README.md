@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi there! 
+I’m Nima, a design engineer based in Iran. I like building clean, modern interfaces and keeping things simple.
 
-<!--
-**NimaNozary/NimaNozary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**These days I’m focused on: **
 
-Here are some ideas to get you started:
+React, TypeScript, Tailwind
+Clean UI with strong user engagement  
+Personal projects & web experiments  
+<br>
+**Tools:**
+HTML • CSS • JS • REACT
+<br>
+**Fun Facts:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I don’t like coffee or tea
+Demon Slayer is my favorite anime
+Hobbies: anime & gym
