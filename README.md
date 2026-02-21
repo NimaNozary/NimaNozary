@@ -1,7 +1,7 @@
 Hi there! 
 I’m Nima, a design engineer based in Iran. I like building clean, modern interfaces and keeping things simple.
 
-**These days I’m focused on: **
+**These days I’m focused on:**
 
 React, TypeScript, Tailwind
 Clean UI with strong user engagement  
