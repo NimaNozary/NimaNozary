@@ -1,17 +1,34 @@
-<h4>Hi there!👋 </h4> 
-<p>I'm <a href="#">Nima</a> a Front-End Developer based in Iran. <br> I like building clean, modern interfaces and keeping things simple.</p>
+<h3>Hi there! 👋</h3>
 
-**These days I’m focused on:**
+<p>
+I’m <strong>Nima</strong>, a Front-End Developer transitioning from high-performance content strategy to web development.  
+I build clean, modern, and conversion-driven digital experiences.
+</p>
 
-React, TypeScript, Tailwind
-Clean UI with strong user engagement  
-Personal projects & web experiments  
-<br>
-**Tools:**
-HTML • CSS • JS • REACT
-<br>
-**Fun Facts:**
+<p><strong>These days I’m focused on:</strong></p>
 
-I don’t like coffee or tea
-Demon Slayer is my favorite anime
-Hobbies: anime & gym
+<ul>
+<li>Learning <strong>React</strong> & <strong>Tailwind CSS</strong></li>
+<li>Building personal branding websites</li>
+<li>Improving modern front-end architecture</li>
+</ul>
+
+<hr>
+
+<p><strong>Before programming:</strong></p>
+
+<ul>
+<li><strong>Instagram Growth Strategist</strong> — Scaled multiple pages from zero to 15K–150K followers</li>
+<li>Produced viral reels with multi-million views (highest: 21M+)</li>
+<li>Ranked #1 in competitive hashtags</li>
+<li>Built content strategies & executed high-performing campaigns</li>
+</ul>
+
+<hr>
+
+<p><strong>Fun Facts:</strong></p>
+
+<ul>
+<li>Obsessed with learning</li>
+<li>I don't know why but they call me <strong>Mr. PokerFace</strong></li>
+</ul>
