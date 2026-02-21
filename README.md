@@ -1,5 +1,5 @@
-Hi there! 
-I’m Nima, a design engineer based in Iran. I like building clean, modern interfaces and keeping things simple.
+<h4>Hi there!👋 </h4> 
+<p>I'm <a href="#">Nima</a> a Front-End Developer based in Iran. <br> I like building clean, modern interfaces and keeping things simple.</p>
 
 **These days I’m focused on:**
 
